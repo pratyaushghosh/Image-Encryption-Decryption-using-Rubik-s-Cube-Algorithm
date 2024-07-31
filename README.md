@@ -4,7 +4,7 @@ This is a novel image encryption algorithm based on Rubik's cube principle. The 
 
 **Algorithm Description**
 
-**Rubik’s Cube Image Encryption Algorithm**
+****Rubik’s Cube Image Encryption Algorithm****
 
   1. I0: α bit grayscale image. Image size is M x N.
   2. Generate random vectors KR & KC of length M & N respectively.
