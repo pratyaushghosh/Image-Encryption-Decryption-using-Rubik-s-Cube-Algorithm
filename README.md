@@ -41,14 +41,27 @@ Welcome to the **Rubik’s Cube Image Encryption** project! This project showcas
 
 **Firebase** is a Google product that helps developers build, manage, and grow their apps easily. The Firebase Realtime Database is a cloud-based NoSQL database that manages data at lightning speed. It functions as a large JSON file, providing efficient data management and synchronization.
 
-![Traditional vs. Firebase](source: GeeksforGeeks) ![Firebase JSON File](source: GeeksforGeeks)
+![image](https://github.com/user-attachments/assets/e142672a-1ecc-4163-9bea-d5432a93544c)
+![Traditional vs. Firebase] (Source: GeeksforGeeks)
 
+
+
+
+
+
+![Firebase JSON File](source: GeeksforGeeks)
 ## 📧 Sending Mail with Python
 
 Using Python’s **SMTPlib** module, we can send emails with attachments. The process involves:
 - Creating SMTP client session objects.
 - Providing valid source and destination email IDs and port numbers.
 - Using the MIME module for flexibility.
+
+
+
+
+
+
 
 ![SMTP Server](source: business2community)
 
@@ -58,6 +71,12 @@ Fast2SMS API allows us to send OTP messages efficiently. The process includes:
 - Signing up for a Fast2SMS account.
 - Using the Dev API option to copy the API Authorization Key.
 - Making requests to the API using the `requests` module and reading data with the `json` module.
+
+
+
+
+
+
 
 ![SMTP Server](source: GeeksforGeeks)
 
