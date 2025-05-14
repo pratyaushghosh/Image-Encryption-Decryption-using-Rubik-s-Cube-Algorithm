@@ -1,9 +1,6 @@
 from tkinter import *
 import requests
 import FirebaseAdmin as firebase
-#C4qBmsb9OviwGFxnE6RDVIp7Sl8hoQJPu1ajZyLYUzTeAfHtk5q25KRLsw8OiIoJMzgZ6YvUTFtla4QN(9836176456)
-#T97LbyB8IR2HeZ6OcjiDhpqPaUNwEVWFrn45CStAoJfXk0GMYuvMWIDOyKTVx1Flj0gLimrq5UZ8JC4d(6291020762)
-#6Kq9cw5Rk2b8J85oBQWM3I1v8I8uhObp84syadyQsm4zxSvEc9WUUETyWrqq(7003300190)
 
 def send():
     #sfile=open("securitycode.txt","r")
